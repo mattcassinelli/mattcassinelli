@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Matthew Cassinelli. I make [shortcuts](http://matthewcassinelli.com).
+
 <!--
 **mattcassinelli/mattcassinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
